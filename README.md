@@ -4,4 +4,6 @@ A collection of projects built and stored here.
 
 ## Projects
 
-_Projects will be added here as they are created._
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [money-maker](./money-maker) | Stock trading web app | Next.js, TypeScript, Tailwind CSS |
