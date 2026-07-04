@@ -1,2 +1,7 @@
 # Fable5
-My new Fable Project
+
+A collection of projects built and stored here.
+
+## Projects
+
+_Projects will be added here as they are created._
